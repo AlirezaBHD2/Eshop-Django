@@ -1,0 +1,18 @@
+{% extends 'shared/_MainLayout.html' %}
+{% load render_partial %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <ul class="list-group">
+                    <li class="list-group-item"><h2>اطلاعات حساب کاربری</h2>
+                        <hr>
+                        نام کاربری : {{ username }}<br><br> ایمیل : {{ email }} <br><br></li>
+                </ul>
+            </div>
+
+            {% render_partial 'eshop_account.views.user_sidebar' %}
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,35 @@
+{% extends "shared/_MainLayout.html" %}
+{% block content %}
+    {% load render_partial %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="contact-form">
+                    <div class="status alert alert-success" style="display: none"></div>
+                    <form id="main-contact-form" class="contact-form row" name="contact-form" method="post"
+                          action="">
+                        {% csrf_token %}
+                        <div class="form-group col-md-12">
+                            {{ edit_user_form.first_name }}
+                            {% for error in edit_user_form.first_name.errors %}
+                                <p class="text-danger">{{ error }}</p>
+                            {% endfor %}
+                        </div>
+                        <div class="form-group col-md-12">
+                            {{ edit_user_form.last_name }}
+                            {% for error in edit_user_form.last_name.errors %}
+                                <p class="text-danger">{{ error }}</p>
+                            {% endfor %}
+                        </div>
+
+                        <div class="form-group col-md-12">
+                            <input type="submit" name="submit" class="btn btn-primary pull-right" value="ارسـال">
+                        </div>
+                    </form>
+                </div>
+            </div>
+            {% render_partial 'eshop_account.views.user_sidebar' %}
+        </div>
+    </div>
+
+{% endblock %}
