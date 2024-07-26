@@ -83,6 +83,7 @@
 
 <img title="" src="file:///D:/Download/Screenshot 2024-07-26 at 15-27-47 فروشگاه کارزیبا.png" alt="Screenshot 2024-07-26 at 15-27-47 فروشگاه کارزیبا.png" width="660" data-align="center">
 
+[![Screenshot-2024-07-26-at-15-27-47.png](https://i.postimg.cc/GmSBy7kS/Screenshot-2024-07-26-at-15-27-47.png)](https://postimg.cc/WdgbR7YM)
 ![Screenshot 2024-07-26 at 15-28-38 فروشگاه کارزیبا.png](D:\Download\Screenshot%202024-07-26%20at%2015-28-38%20فروشگاه%20کارزیبا.png)
 
 ![Screenshot 2024-07-26 at 15-39-00 فروشگاه کارزیبا.png](D:\Download\Screenshot%202024-07-26%20at%2015-39-00%20فروشگاه%20کارزیبا.png)
