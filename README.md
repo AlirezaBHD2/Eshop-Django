@@ -1,2 +1,0 @@
-# Eshop-Django
-Django Eshop
