@@ -81,17 +81,17 @@
     
     - Products have methods to generate SEO-friendly URLs.
 
-<img title="" src="file:///D:/Download/Screenshot 2024-07-26 at 15-27-47 فروشگاه کارزیبا.png">
+![Screenshot 2024-07-26 at 15-27-47 فروشگاه کارزیبا](https://github.com/user-attachments/assets/818ba845-01be-49ab-8b12-3d7477a1fb28)
 
-[![Screenshot-2024-07-26-at-15-27-47.png](https://i.postimg.cc/GmSBy7kS/Screenshot-2024-07-26-at-15-27-47.png)](https://postimg.cc/WdgbR7YM)
-![Screenshot 2024-07-26 at 15-28-38 فروشگاه کارزیبا.png](D:\Download\Screenshot%202024-07-26%20at%2015-28-38%20فروشگاه%20کارزیبا.png)
+![Screenshot 2024-07-26 at 15-28-38 فروشگاه کارزیبا](https://github.com/user-attachments/assets/d7fc766a-d1b9-43d9-b223-65fd5ec8194c)
 
-![Screenshot 2024-07-26 at 15-39-00 فروشگاه کارزیبا.png](D:\Download\Screenshot%202024-07-26%20at%2015-39-00%20فروشگاه%20کارزیبا.png)
+![Screenshot 2024-07-26 at 15-39-00 فروشگاه کارزیبا](https://github.com/user-attachments/assets/7e3678a9-cebf-42ed-bf91-2ad8eb041f1f)
 
-![Screenshot 2024-07-26 at 15-33-57 مدیریت وب‌گاه مدیریت وب‌گاه Django.png](D:\Download\Screenshot%202024-07-26%20at%2015-33-57%20مدیریت%20وب‌گاه%20مدیریت%20وب‌گاه%20Django.png)
+![Screenshot 2024-07-26 at 15-33-57 مدیریت وب‌گاه مدیریت وب‌گاه Django](https://github.com/user-attachments/assets/d7641e92-a7ee-4e29-a88d-6e3de3158676)
 
-![Screenshot 2024-07-26 at 15-34-26 تماس با ما را برای تغییر انتخاب کنید مدیریت وب‌گاه Django.png](D:\Download\Screenshot%202024-07-26%20at%2015-34-26%20تماس%20با%20ما%20را%20برای%20تغییر%20انتخاب%20کنید%20مدیریت%20وب‌گاه%20Django.png)
+![Screenshot 2024-07-26 at 15-34-26 تماس با ما را برای تغییر انتخاب کنید مدیریت وب‌گاه Django](https://github.com/user-attachments/assets/9793ae8f-6506-4b7b-8ba1-36bb85d4e8c0)
 
-![Screenshot 2024-07-26 at 15-34-59 لباس 1 تغییر محصول مدیریت وب‌گاه Django.png](D:\Download\Screenshot%202024-07-26%20at%2015-34-59%20لباس%201%20تغییر%20محصول%20مدیریت%20وب‌گاه%20Django.png)
+![Screenshot 2024-07-26 at 15-34-59 لباس 1 تغییر محصول مدیریت وب‌گاه Django](https://github.com/user-attachments/assets/42ba0ca1-1424-4722-acc1-d1d646309325)
 
-![loading-ag-292](D:\Download\Screenshot%202024-07-26%20at%2015-35-38%20کاربر%20را%20برای%20تغییر%20انتخاب%20کنید%20مدیریت%20وب‌گاه%20Django.png)
+![Screenshot 2024-07-26 at 15-35-38 کاربر را برای تغییر انتخاب کنید مدیریت وب‌گاه Django](https://github.com/user-attachments/assets/9cd781b4-cd1b-41f0-bd03-f194d33d81e8)
+
