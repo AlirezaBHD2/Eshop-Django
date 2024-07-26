@@ -1,0 +1,29 @@
+<div class="col-sm-4 pull-right">
+    <a href="/products/{{ product.id }}/{{ product.title }}">
+
+        <div class="product-image-wrapper">
+            <div class="single-products">
+                <div class="productinfo text-center">
+                    <img src="{{ product.image.url }}" alt="">
+                    <h2>{{ product.price }} تومان</h2>
+                    <p>{{ product.title }}</p>
+                    <a href="/add_user_order/{{ product.id }}" class="btn btn-default add-to-cart"><i
+                            class="fa fa-shopping-cart"></i>افزودن به سبـد خریـد</a>
+                </div>
+                <div class="product-overlay">
+                    <a href="/products/{{ product.id }}/{{ product.title }}">
+                        <div class="overlay-content">
+                            <h2>{{ product.price }} تومان</h2>
+                            <p>{{ product.title }}</p>
+                            <a href="/add_user_order/{{ product.id }}" class="btn btn-default add-to-cart"><i
+                                    class="fa fa-shopping-cart"></i>افزودن به سبـد خریـد</a>
+
+                        </div>
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+    </a>
+</div>
